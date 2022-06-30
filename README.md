@@ -1,6 +1,6 @@
-## Widget feedback.
+# Widget feedback
 
-# Sobre: Widget feito atráves da @Rocketseat, com o instrutor @diego3g
+## Sobre: Widget feito atráves da @Rocketseat, com o instrutor @diego3g
 
 ## 🧪 Tecnologias
 
