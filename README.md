@@ -1,6 +1,8 @@
 # Widget feedback
 ## Widget feito atráves da @Rocketseat, com o instrutor @diego3g 🚀
 
+<img src="https://user-images.githubusercontent.com/92998471/176645388-1fda1582-597d-4e24-aa58-4b3e58a616db.png"/>
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
