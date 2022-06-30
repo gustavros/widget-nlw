@@ -16,3 +16,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Você pode visualizar o layout do projeto através do link abaixo:
 
 - [Layout Web](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget)
+
+<p align="left">Feito com 💜 por Filipe Ariel</p>
